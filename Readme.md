@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <a href="mailto:ranajitbangal01@gmail.com">
     <img align="center" alt="ranajit @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
   </a>
-  <a href="www.linkedin.com/in/Ranajit-bangal-r7182">
+  <a href="www.linkedin.com/in/Ranajit-bangal-r7182" target="_blank">
     <img align="center" alt="Ranajt @LinkedIN" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png" />&nbsp;
   </a>
   
