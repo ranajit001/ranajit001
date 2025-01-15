@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning stuff to be a Back-end Web Developer!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...HTML|CSS|JavaScript
-- 📫 How to reach me: ...[email: ranajitbangal01@gmail.com](mailto:ranajitbangal01@gmail.com)|[LinkedIn](www.linkedin.com/in/ranajit-bangal-r7182)
+- 📫 How to reach me: ...[email: ranajitbangal01@gmail.com](mailto:ranajitbangal01@gmail.com)|[LinkedIn](https://www.linkedin.com/in/ranajit-bangal-r7182)
 - 😄 Pronouns: ...He/His
  <!--- - ⚡ Fun fact: ... -->
 
- <img align="center" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%"  />&nbsp;
+ <!-- <img align="center" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%"  />&nbsp; -->
 
 <p align="center">
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <a href="mailto:ranajitbangal01@gmail.com">
     <img align="center" alt="ranajit @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
   </a>
-  <a href="www.linkedin.com/in/Ranajit-bangal-r7182" target="_blank">
+  <a href="https://www.linkedin.com/in/Ranajit-bangal-r7182" target="_blank">
     <img align="center" alt="Ranajt @LinkedIN" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png" />&nbsp;
   </a>
   
