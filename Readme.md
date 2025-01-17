@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning stuff to be a Back-end Web Developer!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...HTML|CSS|JavaScript
-- 📫 How to reach me: ...[email: ranajitbangal01@gmail.com](mailto:ranajitbangal01@gmail.com)|[LinkedIn](https://www.linkedin.com/in/ranajit-bangal-r7182)
+- 📫 How to reach me: ...[email: ranajitbangal01@gmail.com](mailto:ranajitbangal01@gmail.com)|[LinkedIn](www.linkedin.com/in/ranajitbangal)
 - 😄 Pronouns: ...He/His
  <!--- - ⚡ Fun fact: ... -->
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <a href="mailto:ranajitbangal01@gmail.com">
     <img align="center" alt="ranajit @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/Ranajit-bangal-r7182" target="_blank">
+  <a href="www.linkedin.com/in/ranajitbangal" target="_blank">
     <img align="center" alt="Ranajt @LinkedIN" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png" />&nbsp;
   </a>
   
