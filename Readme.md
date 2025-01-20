@@ -56,16 +56,16 @@ Here are some ideas to get you started:
   </a>
   
 <!-- // add portfolio************************************** -->
-  <!-- <a href="">
+   <a href="https://ranajit001.github.io/">
     <img align="center" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/web-designer-portfolio-958733.png" alt="Ranajit Portfolio" width="50px">&nbsp;
-  </a> -->
+  </a> 
   <a href="https://github.com/ranajit001" >
     <img align="center" alt="Ranajit @ Github" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-128.png" />&nbsp;
   </a>
-  <!-- add resume************************** -->
-  <!-- <a href="" >
+<!--   add resume************************** -->
+  <a href="https://drive.google.com/file/d/1DWSiPlMXudwpGyA_XaqmYZsnx_ZiGPx8/view?usp=sharing" >
     <img align="center" alt="Ranajit @ Resume" width="45px" src="https://cdn1.iconfinder.com/data/icons/development-3/91/SEODevelopment__Marketing_114-128.png" />&nbsp;
-  </a> -->
+  </a>
   
   <a href="telto:+91-8145067641" >
     <img align="center" alt="Ranajit @ Mobile" width="45px" src="https://cdn0.iconfinder.com/data/icons/network-and-communication-1-2/128/3-128.png" />&nbsp;
