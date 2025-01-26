@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Ranajit @ Github" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-rounded-2/72/GitHub-128.png" />&nbsp;
   </a>
 <!--   add resume************************** -->
-  <a href="https://drive.google.com/file/d/1DWSiPlMXudwpGyA_XaqmYZsnx_ZiGPx8/view?usp=sharing" >
+  <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67945609f7b3074e914900a6" >
     <img align="center" alt="Ranajit @ Resume" width="45px" src="https://cdn1.iconfinder.com/data/icons/development-3/91/SEODevelopment__Marketing_114-128.png" />&nbsp;
   </a>
   
